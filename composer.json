@@ -1,0 +1,12 @@
+{
+    "name": "aubreypwd/test",
+    "authors": [
+        {
+            "name": "Aubrey Portwood",
+            "email": "code@aubreypwd.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
